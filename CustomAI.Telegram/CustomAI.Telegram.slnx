@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CustomAI.Bot/CustomAI.Bot.csproj" />
+  <Project Path="CustomAI.Tests/CustomAI.Tests.csproj" />
+</Solution>
