@@ -1,0 +1,6 @@
+@CustomAI.Bot_HostAddress = http://localhost:5282
+
+GET {{CustomAI.Bot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
